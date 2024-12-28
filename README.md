@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Connect with me  :  
-  <a href="https://www.linkedin.com/in/sneha-c-shaji-71523b211/" target="blank">
+  <a href="https://www.linkedin.com/in/sneha-c-shaji/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </h3>
