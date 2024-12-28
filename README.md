@@ -1,7 +1,4 @@
 <h1 align="center">Hey 🖐,I am  SNEHA ! </h1>
-<h4 align="center">B Tech at JECC , Community Person</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha2180&label=Profile%20views&color=0e75b6&style=plastic"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
